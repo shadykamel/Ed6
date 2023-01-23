@@ -9,7 +9,7 @@ Favorite quote from first class:
 
 example code
 ```
-example
+Hello 
 ```
 
 ## Assignment #0 Tasks:
