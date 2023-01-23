@@ -7,9 +7,9 @@ This repository is for CPE - 322, Engineering Design VI. :desktop_computer:
 Favorite quote from first class:
 > *If you're passionate about learning, it's an everyday effort.* - Dr. Lu (paraphrased)
 
-example code
+Example Code
 ```
-Hello 
+cout << "hello" << endl;
 ```
 
 ## Assignment #0 Tasks:
