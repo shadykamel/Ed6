@@ -13,7 +13,7 @@ cout << "hello" << endl;
 ```
 
 ## Assignment #0 Tasks:
-- [x] Create a new Github repository
+- [x] Create a new GitHub repository
 - [x] Create a new README.md file
 - [x] Learn and implement Markdown
 - [x] Commit changes  
