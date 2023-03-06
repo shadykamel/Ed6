@@ -42,3 +42,14 @@ node http.js
 ![http.js output](https://user-images.githubusercontent.com/94701716/223167075-aef46e40-504f-45f5-8cb2-cf3642fdca73.png)
 
 To stop the server, we use CTRL + c
+
+## Run say_hello.py
+First, we install pystache 0.6.0 using:
+```
+pip install -U pystache -f https://github.com/PennyDreadfulMTG/pystache/releases/
+```
+We can test the installation using:
+```
+pystache-test
+```
+![pystache-test](https://user-images.githubusercontent.com/94701716/223168176-0c1f95de-ca34-4a97-9510-55d872feb98c.png)
