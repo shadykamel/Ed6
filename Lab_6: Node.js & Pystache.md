@@ -18,3 +18,10 @@ To do this, we open Windows PowerShell and type in the following command:
 ```
 node hello.js
 ```
+![Typed command into PowerShell](https://user-images.githubusercontent.com/94701716/223165064-c383f2d4-25fb-493f-828c-60c490296daf.png)
+
+###### Result:
+
+![hello.js output](https://user-images.githubusercontent.com/94701716/223165160-279990ef-b27e-4049-9fb7-f7acabf1c70a.png)
+
+To stop the server, we use CTRL + c
