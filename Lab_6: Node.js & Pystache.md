@@ -24,4 +24,8 @@ node hello.js
 
 ![hello.js output](https://user-images.githubusercontent.com/94701716/223165160-279990ef-b27e-4049-9fb7-f7acabf1c70a.png)
 
+Terminal after running:
+
+![5](https://user-images.githubusercontent.com/94701716/223165892-c860676d-83a2-4bc2-8660-bdc31b23f8b2.png)
+
 To stop the server, we use CTRL + c
