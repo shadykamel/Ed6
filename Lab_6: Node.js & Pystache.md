@@ -53,3 +53,9 @@ We can test the installation using:
 pystache-test
 ```
 ![pystache-test](https://user-images.githubusercontent.com/94701716/223168176-0c1f95de-ca34-4a97-9510-55d872feb98c.png)
+
+To run say_hello.py, we open Windows PowerShell and type in the following command:
+```
+python say_hello.py
+```
+![say_hello.py output](https://user-images.githubusercontent.com/94701716/223168875-476f643f-84b6-4d0b-8276-cbd44000181b.png)
