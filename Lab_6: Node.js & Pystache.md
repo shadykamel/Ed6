@@ -58,6 +58,5 @@ To run say_hello.py, we open Windows PowerShell and type in the following comman
 ```
 python say_hello.py
 ```
-
 ###### Result:
 ![say_hello.py output](https://user-images.githubusercontent.com/94701716/223168875-476f643f-84b6-4d0b-8276-cbd44000181b.png)
