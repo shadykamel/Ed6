@@ -29,3 +29,16 @@ Terminal after running:
 ![5](https://user-images.githubusercontent.com/94701716/223165892-c860676d-83a2-4bc2-8660-bdc31b23f8b2.png)
 
 To stop the server, we use CTRL + c
+
+## Run http.js
+To do this, we open Windows PowerShell and type in the following command:
+```
+node http.js
+```
+![Typed command into PowerShell](https://user-images.githubusercontent.com/94701716/223167023-25d2eb27-5f88-4349-bd5f-45c573ca9f7a.png)
+
+###### Result:
+
+![http.js output](https://user-images.githubusercontent.com/94701716/223167075-aef46e40-504f-45f5-8cb2-cf3642fdca73.png)
+
+To stop the server, we use CTRL + c
