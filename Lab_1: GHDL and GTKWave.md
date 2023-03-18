@@ -33,7 +33,7 @@ gtkwave ha.vcd
 ```
 ![image](https://user-images.githubusercontent.com/94701716/226143183-3883db2f-ca79-4191-a38c-ddf860c413a8.png)
 
-## Half Adder
+## Full Adder
 ```
 ghdl -a adder.vhdl
 ghdl -a adder_tb.vhdl
@@ -41,3 +41,24 @@ ghdl -e adder_tb
 ghdl -r adder_tb --vcd=adder.vcd
 gtkwave adder.vcd
 ```
+![image](https://user-images.githubusercontent.com/94701716/226143344-9a9453a0-a9cb-4789-99c2-ab6589821335.png)
+
+## D Flip-flop
+```
+ghdl -a dff.vhdl
+ghdl -a dff_tb.vhdl
+ghdl -e dff_tb
+ghdl -r dff_tb --vcd=dff.vcd
+gtkwave dff.vcd
+```
+![image](https://user-images.githubusercontent.com/94701716/226143651-4d2f1855-1042-489d-a6b5-c89cd21382ec.png)
+
+## 4-to-1 Multiplexer
+```
+ghdl -a mux.vhdl
+ghdl -a mux_tb.vhdl
+ghdl -e mux_tb
+ghdl -r mux_tb --vcd=mux.vcd
+gtkwave mux.vcd
+```
+![image](https://user-images.githubusercontent.com/94701716/226143761-86d1fb75-6759-46b6-963f-8390541ab74a.png)
