@@ -38,4 +38,5 @@ $ netstat
 ## $ pwd
 ![image](https://user-images.githubusercontent.com/94701716/234041529-34168f9e-67aa-4894-aeff-c1ac85839239.png)
 
-## git clone https://github.com/kevinwlu/iot.git
+## $ git clone https://github.com/kevinwlu/iot.git
+![image](https://user-images.githubusercontent.com/94701716/234096855-80de4551-3b01-4db9-8a4f-9b39e6202a0e.png)
