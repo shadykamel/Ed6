@@ -82,9 +82,17 @@ $ netstat
 ## $ clear
 ![image](https://user-images.githubusercontent.com/94701716/234381259-d4a51205-4156-41ef-a7b6-774982ce9c15.png)
 
+## $ man uname [using equivalent: uname --help]
+![image](https://user-images.githubusercontent.com/94701716/234415535-336e67c7-c57f-40b6-ad43-e1293b7026ec.png)
 
-$ man uname
-$ uname -a
-$ ifconfig
-$ ping localhost
-$ netstat
+## $ uname -a
+![image](https://user-images.githubusercontent.com/94701716/234424283-c4eb2143-87fa-439a-b271-0ab8685cb1a0.png)
+
+## $ ifconfig [using equivalent: ipconfig] (All Wireless LAN adapter Wi-Fi information redacted)
+![ifconfig](https://user-images.githubusercontent.com/94701716/234425231-6048f23a-2a11-41fd-8151-dc9e86f5b78e.png)
+
+## $ ping localhost
+![image](https://user-images.githubusercontent.com/94701716/234425842-de1da460-830d-48d7-9df3-1a8711946996.png)
+
+## $ netstat (Local and Foreign Addresses removed for security)
+![netstat](https://user-images.githubusercontent.com/94701716/234427489-a4d1250d-a8ea-4254-9d45-5f80b8f49536.png)
