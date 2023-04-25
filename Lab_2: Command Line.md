@@ -51,3 +51,27 @@ $ netstat
 ![image](https://user-images.githubusercontent.com/94701716/234338708-0a249c65-b88f-4986-99b2-515015006502.png)
 
 ## $ df
+![image](https://user-images.githubusercontent.com/94701716/234362682-1856bdea-2bcc-480b-bac7-743ac67d32ec.png)
+
+## $ mkdir demo
+![image](https://user-images.githubusercontent.com/94701716/234366091-edb48ead-ca90-4e05-80fa-c9bb22cc19c2.png)
+
+## $ cd demo
+![image](https://user-images.githubusercontent.com/94701716/234367105-a20cf5c5-28d7-4b4d-ac98-90759023ae1d.png)
+
+## $ nano file
+![image](https://user-images.githubusercontent.com/94701716/234368225-3f8dba52-5bf1-4e30-a5da-65c969173630.png)
+![image](https://user-images.githubusercontent.com/94701716/234368178-a2f1e32c-63ef-4165-b1b2-8e79a0bb947f.png)
+
+## $ cat file
+![image](https://user-images.githubusercontent.com/94701716/234368343-e8d5521b-b82c-4a9b-8890-9c5cb514e111.png)
+
+$ cp file file1
+$ mv file file2
+$ rm file2
+$ clear
+$ man uname
+$ uname -a
+$ ifconfig
+$ ping localhost
+$ netstat
