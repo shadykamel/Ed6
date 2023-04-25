@@ -40,3 +40,14 @@ $ netstat
 
 ## $ git clone https://github.com/kevinwlu/iot.git
 ![image](https://user-images.githubusercontent.com/94701716/234096855-80de4551-3b01-4db9-8a4f-9b39e6202a0e.png)
+
+## $ cd iot
+![image](https://user-images.githubusercontent.com/94701716/234337462-dc409428-943b-49da-ad6f-94c94f19c427.png)
+
+## $ ls
+![image](https://user-images.githubusercontent.com/94701716/234337771-9dde1c36-d1b1-4be3-85aa-2c44a6c3647d.png)
+
+## $ cd
+![image](https://user-images.githubusercontent.com/94701716/234338708-0a249c65-b88f-4986-99b2-515015006502.png)
+
+## $ df
