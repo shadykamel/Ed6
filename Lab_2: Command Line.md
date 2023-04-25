@@ -66,8 +66,15 @@ $ netstat
 ## $ cat file
 ![image](https://user-images.githubusercontent.com/94701716/234368343-e8d5521b-b82c-4a9b-8890-9c5cb514e111.png)
 
-$ cp file file1
-$ mv file file2
+## $ cp file file1
+![image](https://user-images.githubusercontent.com/94701716/234369027-44ec41ec-25fd-4303-804c-7e07d9db76c8.png)
+![image](https://user-images.githubusercontent.com/94701716/234369097-c06900c2-df5f-4e37-aff2-6934b823ccf2.png)
+![image](https://user-images.githubusercontent.com/94701716/234369154-c84e80a7-9333-4fe6-b2e0-3a100f742d79.png)
+
+## $ mv file file2
+
+
+
 $ rm file2
 $ clear
 $ man uname
