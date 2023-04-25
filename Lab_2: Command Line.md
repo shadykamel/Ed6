@@ -72,11 +72,17 @@ $ netstat
 ![image](https://user-images.githubusercontent.com/94701716/234369154-c84e80a7-9333-4fe6-b2e0-3a100f742d79.png)
 
 ## $ mv file file2
+![image](https://user-images.githubusercontent.com/94701716/234380824-aada2641-a55d-498b-a165-1ac8f914a206.png)
+![image](https://user-images.githubusercontent.com/94701716/234380902-b2891f9c-b26c-4f62-af01-5645ba5d8cb2.png)
+
+## $ rm file2
+![image](https://user-images.githubusercontent.com/94701716/234381048-736775c4-ec9e-460c-a554-d0a212b037f2.png)
+![image](https://user-images.githubusercontent.com/94701716/234381102-c2e21b8e-5d8f-44a1-98ba-592f86144d53.png)
+
+## $ clear
+![image](https://user-images.githubusercontent.com/94701716/234381259-d4a51205-4156-41ef-a7b6-774982ce9c15.png)
 
 
-
-$ rm file2
-$ clear
 $ man uname
 $ uname -a
 $ ifconfig
