@@ -2,6 +2,7 @@
 
 ## Installing required packages:
 ![image](https://user-images.githubusercontent.com/94701716/234608745-75d85dc4-21e9-407f-9fee-8610f4cd3fc5.png)
+![image](https://user-images.githubusercontent.com/94701716/234620716-e6d0e539-aaa7-4964-ac68-798cf04d2add.png)
 
 ## Required commands:
 ```
@@ -28,10 +29,10 @@ $ py julian.py
 $ py date_example.py
 $ py datetime_example.py
 $ py time_example.py
-$ py sun.py 'New York'
+$ py sun.py "New York"
 $ py moon.py
-$ py coordinates.py 'SC Williams Library'
-$ py address.py '40.74480675, -74.02532862031404'
+$ py coordinates.py "SC Williams Library"
+$ py address.py "40.74480675, -74.02532862031404"
 $ py cpu.py
 $ py battery.py
 $ py documentstats.py document.txt
@@ -53,15 +54,23 @@ $ py documentstats.py document.txt
 ![image](https://user-images.githubusercontent.com/94701716/234619088-fc407f82-a47f-481c-b136-82f10260d8bf.png)
 
 ## $ py time_example.py
+![image](https://user-images.githubusercontent.com/94701716/234620197-3dc3afe8-1490-486d-a745-6040759458a1.png)
 
+## $ py sun.py "New York"
+![image](https://user-images.githubusercontent.com/94701716/234621200-f39bc0f0-03da-4799-a5b1-7069d3e7b1e3.png)
 
+## $ py moon.py
+![image](https://user-images.githubusercontent.com/94701716/234621421-0bba0906-92e3-4304-a80d-44745a41a7fa.png)
 
+## $ py coordinates.py "SC Williams Library"
+![image](https://user-images.githubusercontent.com/94701716/234621953-1882db12-48e3-4a3e-ab2d-46581b7685a1.png)
 
+## $ py address.py "40.74480675, -74.02532862031404"
+![image](https://user-images.githubusercontent.com/94701716/234622178-3ce313cb-4ff8-4098-8a13-ad7ff095993b.png)
 
-$ py sun.py 'New York'
-$ py moon.py
-$ py coordinates.py 'SC Williams Library'
-$ py address.py '40.74480675, -74.02532862031404'
 $ py cpu.py
+
+
+
 $ py battery.py
 $ py documentstats.py document.txt
