@@ -3,6 +3,7 @@
 ## Installing required packages:
 ![image](https://user-images.githubusercontent.com/94701716/234608745-75d85dc4-21e9-407f-9fee-8610f4cd3fc5.png)
 ![image](https://user-images.githubusercontent.com/94701716/234620716-e6d0e539-aaa7-4964-ac68-798cf04d2add.png)
+![image](https://user-images.githubusercontent.com/94701716/234622471-b28e1e95-561c-4a63-85bf-2cdecd75f5cb.png)
 
 ## Required commands:
 ```
@@ -68,9 +69,11 @@ $ py documentstats.py document.txt
 ## $ py address.py "40.74480675, -74.02532862031404"
 ![image](https://user-images.githubusercontent.com/94701716/234622178-3ce313cb-4ff8-4098-8a13-ad7ff095993b.png)
 
-$ py cpu.py
+## $ py cpu.py
+![image](https://user-images.githubusercontent.com/94701716/234622624-21614c0b-fe49-4836-9c2a-85623212fb6e.png)
 
+## $ py battery.py
+![image](https://user-images.githubusercontent.com/94701716/234622885-c7f1f7d3-f7cd-471c-939c-a4deddf39952.png)
 
-
-$ py battery.py
-$ py documentstats.py document.txt
+## $ py documentstats.py document.txt
+![image](https://user-images.githubusercontent.com/94701716/234623057-f6c19c36-cf84-4646-9275-170f26f498c0.png)
