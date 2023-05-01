@@ -46,3 +46,4 @@ $ curl "localhost:5000/txion" \
 $ curl localhost:5000/mine
 ```
 ![image](https://user-images.githubusercontent.com/94701716/235471095-1cdbdc02-614c-41b0-af06-b2e74d8ec6e4.png)
+![image](https://user-images.githubusercontent.com/94701716/235471312-ecf4cee5-b384-4388-b4b5-0f8eee177033.png)
