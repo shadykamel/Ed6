@@ -15,3 +15,5 @@ $ mkdir demo
 ```
 $ cp ~/iot/lesson9/intrusiondetection.yang ~/demo
 ```
+![image](https://user-images.githubusercontent.com/94701716/235516519-eb743568-719b-4d8b-b84a-19afc3c3517d.png)
+![image](https://user-images.githubusercontent.com/94701716/235516565-f34adeaf-e20d-4e4a-b9c0-32d7df438f84.png)
