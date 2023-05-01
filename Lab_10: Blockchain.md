@@ -76,3 +76,5 @@ $ vncserver
 $ cd ~/python_blockchain_app
 $ python3 run_app.py
 ```
+![image](https://user-images.githubusercontent.com/94701716/235478797-f03e2b08-6bf5-4e8e-8b88-31ccea4b26c0.png)
+![image](https://user-images.githubusercontent.com/94701716/235478853-dd2c09a1-eac5-45ad-8e54-5f63cddc30a2.png)
