@@ -49,3 +49,11 @@ $ curl localhost:5000/mine
 ![image](https://user-images.githubusercontent.com/94701716/235471312-ecf4cee5-b384-4388-b4b5-0f8eee177033.png)
 
 ## Clone Python blockchain app and uncomment the last line of node_server.py
+```
+$ git clone https://github.com/satwikkansal/python_blockchain_app.git
+```
+![image](https://user-images.githubusercontent.com/94701716/235475065-7cb96d53-b4d4-441a-a804-0d7fed4c2fcb.png)
+
+```
+$ cd ~/python_blockchain_app
+```
