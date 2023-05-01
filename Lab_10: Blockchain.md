@@ -33,3 +33,16 @@ $ py snakecoin.py
 ![image](https://user-images.githubusercontent.com/94701716/235467246-788fde9b-3184-46e2-bcec-48d558813035.png)
 ![image](https://user-images.githubusercontent.com/94701716/235467331-32d86e5c-5842-43c8-943a-d04e7a2d643c.png)
 
+## Run snakecoin-server-full-code.py on Terminal 1 and mine a new block on Terminal 2
+```
+$ py snakecoin-server-full-code.py
+```
+![image](https://user-images.githubusercontent.com/94701716/235470375-30d60bf7-fdb5-4394-8e8e-bd46163be529.png)
+
+```
+$ curl "localhost:5000/txion" \
+     -H "Content-Type: application/json" \
+     -d '{"from": "akjflw", "to":"fjlakdj", "amount": 3}'
+$ curl localhost:5000/mine
+```
+![image](https://user-images.githubusercontent.com/94701716/235471095-1cdbdc02-614c-41b0-af06-b2e74d8ec6e4.png)
