@@ -57,3 +57,11 @@ $ git clone https://github.com/satwikkansal/python_blockchain_app.git
 ```
 $ cd ~/python_blockchain_app
 ```
+![image](https://user-images.githubusercontent.com/94701716/235475389-8796cb20-95cb-48b3-af92-bc303c5f7c42.png)
+
+```
+$ nano node_server.py
+```
+![image](https://user-images.githubusercontent.com/94701716/235475848-24841a5f-c4c4-42dc-8bea-fc0cf38820b3.png)
+![image](https://user-images.githubusercontent.com/94701716/235475712-4023ebc7-bf68-4fc1-9af9-7bd7aa4bf93e.png)
+
