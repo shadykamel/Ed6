@@ -65,3 +65,14 @@ $ nano node_server.py
 ![image](https://user-images.githubusercontent.com/94701716/235475848-24841a5f-c4c4-42dc-8bea-fc0cf38820b3.png)
 ![image](https://user-images.githubusercontent.com/94701716/235475712-4023ebc7-bf68-4fc1-9af9-7bd7aa4bf93e.png)
 
+## Run node_server.py on Terminal 1 and run_app.py on Terminal 2
+```
+$ py node_server.py
+```
+![image](https://user-images.githubusercontent.com/94701716/235476544-44449e55-71c1-434c-9620-6d0143d10bca.png)
+
+```
+$ vncserver
+$ cd ~/python_blockchain_app
+$ python3 run_app.py
+```
