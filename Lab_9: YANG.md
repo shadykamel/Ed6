@@ -28,15 +28,14 @@ $ cd ~/demo
 ## Run pyang to generate intrusiondetection.yin and intrusiondetection.uml
 ```
 $ pyang -f yin -o intrusiondetection.yin intrusiondetection.yang
-```
-
-
-```
 $ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereotypes,annotation,typedef
 ```
-
+![7](https://user-images.githubusercontent.com/94701716/236370164-3435c9b6-4d8f-4109-b827-bf713a476dfa.png)
 
 ## Run PlantUML to generate intrusiondetection.png
 ```
-$ py -m plantuml intrusiondetection.uml
+$ python3 -m plantuml intrusiondetection.uml
 ```
+![8](https://user-images.githubusercontent.com/94701716/236370404-2d3d00b7-272a-4034-ba60-2bc3c4c9ae3a.png)
+![9](https://user-images.githubusercontent.com/94701716/236370508-430a12c9-638e-4735-a6f1-11800b32d4ce.png)
+![intrusiondetection](https://user-images.githubusercontent.com/94701716/236370553-4e006538-450c-4459-afd5-a2db1a6dbc6c.png)
