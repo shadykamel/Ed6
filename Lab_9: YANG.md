@@ -4,6 +4,7 @@
 ```
 $ sudo apt install libxml2-dev libxslt1-dev
 $ sudo pip3 install -U lxml pyang
+$ suddo pip3 install -U plantuml
 ```
 ![1](https://user-images.githubusercontent.com/94701716/236365674-b454c19e-f550-46c3-9f76-e979f06402c8.png)
 ![2](https://user-images.githubusercontent.com/94701716/236366320-5ffb9446-1b66-4a80-8632-59567e9bd49f.png)
