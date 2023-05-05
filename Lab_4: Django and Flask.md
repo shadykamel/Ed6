@@ -43,6 +43,8 @@ Reload privilege tables now? [Y/n]
 
 ## Start Django project "stevens," run server, and view app
 ![5](https://user-images.githubusercontent.com/94701716/236375629-ec50b7b7-3b48-4f81-a2b6-e62b112f1837.png)
+![16](https://user-images.githubusercontent.com/94701716/236378115-b03ae884-4fdd-490b-b7c4-05536804df5d.png)
+![17](https://user-images.githubusercontent.com/94701716/236378121-b7574564-46aa-4122-9ac6-9e61cc15f917.png)
 
 
 
