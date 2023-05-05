@@ -18,8 +18,6 @@ $ sudo pip3 install -U requests
 
 ## Start Django REST project "mycpu," run server, and view app
 
-## Install Flask if no module named 'flask'
-
 ## Run Flask server via hello_world.py and view app
 ![3](https://user-images.githubusercontent.com/94701716/236374695-a53db2c0-bba2-4e26-bb3e-28400b9a6d9a.png)
 ![4](https://user-images.githubusercontent.com/94701716/236374700-171f47c9-b87f-4af8-9e1a-e5562ab312fe.png)
