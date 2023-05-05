@@ -5,7 +5,7 @@
 $ sudo apt install libxml2-dev libxslt1-dev
 $ sudo pip3 install -U lxml pyang
 ```
-![1](https://user-images.githubusercontent.com/94701716/236365498-26637386-1810-47cd-a248-4e018c889fd4.png)
+![1](https://user-images.githubusercontent.com/94701716/236365674-b454c19e-f550-46c3-9f76-e979f06402c8.png)
 
 
 
